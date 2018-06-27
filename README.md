@@ -1,6 +1,6 @@
 ## Overview
 
-Startup School is a peer-to-peer learning program designed specifically for new UNBOXD members who lack direction and entrepreneurial experience. Our goal is to educate and mentor these members to the point where they have honed in on a problem and ideated a solution which they keep developing as an active project. 
+Startup School is a peer-to-peer learning program designed specifically for aspiring startup founders from DLSU who lack direction and entrepreneurial experience. Our goal is to educate and mentor these members to the point where they have honed in on a problem and ideated a solution which they keep developing as an active project. 
 
 Think of Startup School as the **opposite of a hackathon**. Instead of making you **cram a solution in a few days**, we want to work with founders across multiple academic terms to **sustainably develop their ideas**.
 
