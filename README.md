@@ -16,9 +16,9 @@ Instead of focusing on prizes and funding, we teach founders to make the most of
 
 Enrollees in the program will be onboarded onto one of two learning paths:
 
-- **Tech for Non-Tech**
-- **Hacker School**
-- **Social Enterprise**
+- Tech for Non-Tech
+- Hacker School
+- Social Enterprise
 
 To supplement the MOOCs, Startup School will also incorporate relevant events and hackathons from the startup community and field visits to offices of local startups/incubators, so that the students develop a holistic (and realistic) perspective of what building a startup involves. 
 
