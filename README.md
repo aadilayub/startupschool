@@ -23,4 +23,4 @@ Enrollees in the program will be onboarded onto one of two learning paths:
 
 To supplement the MOOCs, Startup School will also incorporate relevant events and hackathons from the startup community and field visits to offices of local startups/incubators, so that the students develop a holistic (and realistic) perspective of what building a startup involves. 
 
-This first run of Startup School  will culminate with Demo Day at Launchgarage where our prospective founders will present pitch decks outlining their projects, for judging by experts from the startup and social enterprise space. 
+This first run of Startup School  will culminate with Demo Day at the end of the term where our prospective founders will present pitch decks outlining their projects, for judging by experts from the startup and social enterprise space. 
