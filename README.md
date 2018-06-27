@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/aadilayub/startupschool/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Startup School is a peer-to-peer learning program designed specifically for new UNBOXD members who lack direction and entrepreneurial experience. Our goal is to educate and mentor these members to the point where they have honed in on a problem and ideated a solution which they keep developing as an active project. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Think of Startup School as the **opposite of a hackathon**. Instead of making you **cram a solution in a few days**, we want to work with founders across multiple academic terms to **sustainably develop their ideas**.
 
-### Markdown
+Instead of focusing on prizes and funding, we teach founders to make the most of the resources already available to them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Goals
 
-# Header 1
-## Header 2
-### Header 3
+1. To give curious but inexperienced UNBOXD members an actionable framework for ideating, testing, and developing startup ideas. 
+2. To create a roster of potential startup founders with promising projects.
 
-- Bulleted
-- List
+### Mechanics
 
-1. Numbered
-2. List
+Enrollees in the program will be onboarded onto one of two learning paths:
 
-**Bold** and _Italic_ and `Code` text
+- **Tech for Non-Tech**
+- **Hacker School**
+- **Social Enterprise**
 
-[Link](url) and ![Image](src)
-```
+To supplement the MOOCs, Startup School will also incorporate relevant events and hackathons from the startup community and field visits to offices of local startups/incubators, so that the students develop a holistic (and realistic) perspective of what building a startup involves. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aadilayub/startupschool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This first run of Startup School  will culminate with Demo Day at Launchgarage where our prospective founders will present pitch decks outlining their projects, for judging by experts from the startup and social enterprise space. 
