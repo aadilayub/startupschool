@@ -1,4 +1,5 @@
 ## Overview
+![img](splash.png) 
 
 Startup School is a peer-to-peer learning program designed specifically for aspiring startup founders from DLSU who lack direction and entrepreneurial experience. Our goal is to educate and mentor these members to the point where they have honed in on a problem and ideated a solution which they keep developing as an active project. 
 
